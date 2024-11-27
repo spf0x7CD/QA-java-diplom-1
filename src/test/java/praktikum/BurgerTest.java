@@ -15,8 +15,6 @@ public class BurgerTest {
     Bun bun;
     @Mock
     Ingredient ingredient;
-    @Mock
-    IngredientType type;
     private Burger burger;
 
     @Before
